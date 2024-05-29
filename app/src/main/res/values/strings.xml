@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">practicaltest02v5</string>
+
+    <string-array name="information_types">
+        <item>get</item>
+        <item>put</item>
+    </string-array>
 </resources>
